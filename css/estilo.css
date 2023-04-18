@@ -62,5 +62,16 @@
     flex-basis: 300px;
 }
 
+.rodape nav{
+    
+    justify-content: space-around;
+    width: 50%;
+    height: 50%;
+    flex-wrap: none;
+}
+.rodape img{
+    max-width: 10%;
+    
+}
 
 
