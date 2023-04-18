@@ -40,4 +40,27 @@
     color: #000000
 }
 
+.tit-sec{
+    text-align: center;
+    font-size: 4em;
+    }
+
+.conteudo {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 880px;
+    margin: 0 auto;
+}
+
+.conteudo img{
+    max-width: 100%;
+    display: block;
+}
+.conteudo > div{
+    flex-grow: 1;
+    flex-shrink: 1;
+    flex-basis: 300px;
+}
+
+
 
