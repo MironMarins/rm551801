@@ -1,1 +1,2 @@
-alert("Alô Mundo!");
+const mn = document.getElementById("menu");
+console.log(mn.textContent);
